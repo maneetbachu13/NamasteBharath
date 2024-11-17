@@ -1,13 +1,8 @@
-@font-face
-{
-    font-family: myfont;
-    src: url(HARRYP__.TTF);
-}
 *{
     padding:0;
     margin:0;
     box-sizing:border;
-    font-family:myfont;
+    font-family:'Poppins',sans-serif;
     text-decoration: none;
     list-style: none;
     scroll-behavior: smooth;
